@@ -12,6 +12,7 @@ gem 'therubyracer', :platforms => :ruby
 
 gem 'haml'
 gem 'haml-rails', :group => :development
+gem 'jquery-rails'
 
 group :test do
   gem 'rails3-generators'
