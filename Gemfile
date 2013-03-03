@@ -14,6 +14,9 @@ gem 'haml'
 gem 'haml-rails', :group => :development
 gem 'jquery-rails'
 
+gem 'rabl'
+gem 'gon'
+
 group :test do
   gem 'rails3-generators'
   gem 'rspec-rails'
